@@ -2,9 +2,9 @@
 🌱 Welcome to my repository, a chronicle of my maiden voyage into the realm of data science through my captivating internship at LetsGrowMore. Join me in uncovering the secrets of the Iris dataset and the captivating art of classification.
 
 **Project Overview**   
-In this internship, I focused on the Iris dataset, a renowned dataset in the field of machine learning and data science. The Iris dataset comprises samples of three different species of iris flowers, each having four features: sepal length, sepal width, petal length, and petal width. My main objective was to create a classification model that could accurately distinguish between these three species based on these features.
-INPUT:Features of flowers(Data in the form of comma separated value file-Iris.csv)
-OUTPUT:Class of flower
+In this internship, I focused on the Iris dataset, a renowned dataset in the field of machine learning and data science. The Iris dataset comprises samples of three different species of iris flowers, each having four features: sepal length, sepal width, petal length, and petal width. My main objective was to create a classification model that could accurately distinguish between these three species based on these features.  
+INPUT:Features of flowers  (Data in the form of comma separated value file-Iris.csv)  
+OUTPUT:Class of flower  
 
 **Key Tasks**  
 Data Collection  
