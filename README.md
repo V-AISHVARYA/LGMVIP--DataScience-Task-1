@@ -7,7 +7,7 @@ INPUT:Features of flowers(Data in the form of comma separated value file-Iris.cs
 OUTPUT:Class of flower
 
 **Key Tasks**
-Data Collection
+Data Collection  
 Data Exploration
 Data Preprocessing
 Exploratory data analysis
